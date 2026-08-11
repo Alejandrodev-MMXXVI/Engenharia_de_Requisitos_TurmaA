@@ -1,5 +1,7 @@
-# Atividade Prática  04/08
-**Objetivo:** Compreender a importância da Engenharia de Requisitos e identificar requisitos básicos de um sistema.
+
+<div align="center">
+  <h1>Atividade Prática  04/08</h1>
+</div>
 
 ## Situação
 Imagine que uma escola deseja criar um sistema de controle de alunos.
@@ -8,8 +10,8 @@ Imagine que uma escola deseja criar um sistema de controle de alunos.
    2. Cite 3 requisitos funcionais (o que o sistema deve fazer)
    3. Cite 2 requisitos não funcionais (como o sistema deve funcionar).
    4. Explique, em poucas palavras, por que é importante levantar os requisitos antes de desenvolver um software.
----
-**Resolução**
+
+## Resolução
 
 > **Foi desenvolvido o levantamento de requisitos para entrada e saída de alunos matriculados.**
 
