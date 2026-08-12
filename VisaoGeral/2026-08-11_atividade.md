@@ -2,7 +2,6 @@
   <h1>Atividade Prática — 11/08</h1>
 </div>
 
----
 
 ## 📑 Sumário
 - [ Cenário & Problema (As-Is)](#-cenário--problema-as-is)
