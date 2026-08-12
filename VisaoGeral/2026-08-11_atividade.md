@@ -93,5 +93,5 @@ Para garantir a aderência do sistema ao mercado real (focado em **Mobilidade Ur
 
 ---
 <p align="center">
-  <sub>Engenharia de Requisitos • 2026</sub>
+  <sub>Augusto Alejandro • 2026</sub>
 </p>
